@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634961547109",
+    "project_id": "notes-dfbe5",
+    "storage_bucket": "notes-dfbe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634961547109:android:745b0be2accd0cd9fa9b8c",
+        "android_client_info": {
+          "package_name": "com.barracudas.savenotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634961547109-so36k4qurup7m704ptt8nalatd4baabf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkLBYXaUVV1Z3CbU3QzJmcwBSC1t8-IKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634961547109-so36k4qurup7m704ptt8nalatd4baabf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
